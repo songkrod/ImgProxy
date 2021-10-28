@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 326px;
+  height: 200px;
+}
+
+.wrapper {
+  max-width: 400px;
+  max-height: 300px;
+}
